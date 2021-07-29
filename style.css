@@ -1,0 +1,12 @@
+.item-inside {
+  padding-left: 20px;
+}
+.hidden > * {
+  display: none;
+}
+.inside-wrapper {
+  padding-left: 10px;
+}
+.top-item {
+  cursor: pointer;
+}
